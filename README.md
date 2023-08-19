@@ -9,7 +9,9 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<img align="left" height="150" src="https://cdn.discordapp.com/attachments/953253122267037716/1142380688289574992/Rick.png"  />
 
 ###
 
