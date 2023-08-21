@@ -43,9 +43,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://tenor.com/view/hacker-gif-18341137"  />
-</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/agentCrafteur289/count.svg?"  />
