@@ -39,9 +39,13 @@
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/agentCrafteur289/agentCrafteur289/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/agentCrafteur289/agentCrafteur289/output/snake.svg" alt="Snake animation" /> -->
 
 ###
+
+<div align="center">
+  <img src="https://tenor.com/view/hacker-gif-18341137"  />
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/agentCrafteur289/count.svg?"  />
