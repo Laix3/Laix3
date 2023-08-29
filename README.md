@@ -45,7 +45,7 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/agentCrafteur289/count.svg?"  />
+ <!--  <img src="https://profile-counter.glitch.me/agentCrafteur289/count.svg?"  />  -->
 </div>
 
 ###
