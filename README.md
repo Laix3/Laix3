@@ -1,5 +1,7 @@
 <h2 align="left"></h2>
-
+<a href="https://github.com/xiaotox-devfr?tab=followers">
+  <img src="https://img.shields.io/github/followers/laix3">
+</a>
 ###
 
 <div align="center">
