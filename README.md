@@ -1,6 +1,6 @@
 <h2 align="left"></h2>
-<a href="https://github.com/xiaotox-devfr?tab=followers">
-  <img src="https://img.shields.io/github/followers/laix3">
+<a href="https://github.com/laix3">
+   <img src="https://komarev.com/ghpvc/?username=laix3">
 </a>
 ###
 
