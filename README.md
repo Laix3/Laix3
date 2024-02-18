@@ -12,7 +12,7 @@
 
 ###
 
- <td align="center" width="96">
+ <td align="center" >
    <a href="#macropower-tech">
      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
    </a>
