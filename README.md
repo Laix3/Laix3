@@ -12,8 +12,7 @@
 
 ###
 
-<table>
-  <tr>
+<tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
@@ -44,10 +43,9 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-  </tr>
-<tr>
-<!--    Thx https://github.com/Lawxsz/Lawxsz/blob/main/README.md#macropower-tech for icons   -->
+</tr>
 
+<!--    Thx https://github.com/Lawxsz/Lawxsz/blob/main/README.md#macropower-tech for icons   -->
 
 ###
 
