@@ -12,10 +12,16 @@
 
 ###
 
-<div align="center">
+ <td align="center" width="96">
+   <a href="#macropower-tech">
+     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+   </a>
+   <br>Python
+ </td>
+<!--<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 <img width="12" />
