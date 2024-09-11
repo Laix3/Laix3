@@ -20,8 +20,8 @@
 </td>
 
 <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="615" height="65" />
-    <br>Python
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 0px;" />
+    <br>JS
 </td>
 
 <!-- <td align="center" width="96">
