@@ -1,4 +1,4 @@
-# Salut endelf si jamais tu passes par la : focusedsnyder9
+# Salut endelf ou Mattéo si jamais vous passez par la : focusedsnyder9 sur discord
 
 <h2 align="left"></h2>
 <a href="https://github.com/laix3">
