@@ -1,5 +1,3 @@
-# Salut endelf ou Mattéo si jamais vous passez par la : focusedsnyder9 sur discord
-
 <h2 align="left"></h2>
 <a href="https://github.com/laix3">
    <img src="https://komarev.com/ghpvc/?username=laix3">
